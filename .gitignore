@@ -1,0 +1,11 @@
+.DS_Store
+__pycache__/
+*.pyc
+instruction.html
+benchmark.html
+showcase.html
+evidence/
+evidence/*-desktop.png
+evidence/*-mobile.png
+evidence/source-frames/
+evidence/final-frames/

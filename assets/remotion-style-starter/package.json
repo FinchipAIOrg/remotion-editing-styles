@@ -1,0 +1,26 @@
+{
+  "name": "remotion-style-starter",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "studio": "remotion studio",
+    "compositions": "remotion compositions src/index.ts",
+    "still:hook": "remotion still src/index.ts CyberAudit out/hook.png --frame=54",
+    "still:body": "remotion still src/index.ts CyberAudit out/body.png --frame=165",
+    "still:cta": "remotion still src/index.ts CyberAudit out/cta.png --frame=315",
+    "still:five-styles": "remotion still src/index.ts RealNaturalRetro out/style-natural.png --frame=150 && remotion still src/index.ts RealXiaohongshu out/style-xiaohongshu.png --frame=150 && remotion still src/index.ts RealRelaxedHandwritten out/style-handwritten.png --frame=150 && remotion still src/index.ts RealAmericanVintage out/style-american.png --frame=150 && remotion still src/index.ts RealCyberBrutalism out/style-cyber.png --frame=150",
+    "render:five-styles": "remotion render src/index.ts FiveStyleEdit out/five-style-edit.mp4",
+    "render": "remotion render src/index.ts CyberAudit out/cyber-audit.mp4",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.488",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "remotion": "4.0.488"
+  },
+  "devDependencies": {
+    "@types/react": "19.1.8",
+    "typescript": "5.8.3"
+  }
+}

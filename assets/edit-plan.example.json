@@ -1,0 +1,81 @@
+{
+  "project": {
+    "title": "Five signals your AI workflow is leaking time",
+    "platform": "vertical-social",
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "durationSeconds": 12,
+    "delivery": "editable-project-and-mp4"
+  },
+  "creative": {
+    "audience": "AI product builders",
+    "message": "Replace invisible workflow friction with observable checkpoints.",
+    "dominantStyle": "cyber-brutalism",
+    "secondaryTraits": [
+      "american-vintage rounded CTA badge"
+    ],
+    "cta": "Audit one workflow today"
+  },
+  "source": {
+    "assets": [],
+    "transcriptStatus": "script-only",
+    "assumptions": [
+      "No source footage was supplied; produce a motion-design proof."
+    ]
+  },
+  "beats": [
+    {
+      "id": "hook",
+      "startSeconds": 0,
+      "endSeconds": 2.4,
+      "purpose": "hook",
+      "visualMode": "graphic",
+      "headline": "YOUR AI WORKFLOW IS LEAKING TIME"
+    },
+    {
+      "id": "proof",
+      "startSeconds": 2.4,
+      "endSeconds": 9.2,
+      "purpose": "proof",
+      "visualMode": "split",
+      "headline": "5 SIGNALS"
+    },
+    {
+      "id": "cta",
+      "startSeconds": 9.2,
+      "endSeconds": 12,
+      "purpose": "cta",
+      "visualMode": "graphic",
+      "headline": "AUDIT ONE WORKFLOW TODAY"
+    }
+  ],
+  "captions": {
+    "placement": "lower-third",
+    "segmentation": "meaning-chunks",
+    "emphasis": "one lime phrase per caption",
+    "safeArea": "avoid center face zone and bottom UI chrome"
+  },
+  "audio": {
+    "dialogue": "none in proof",
+    "music": "not included",
+    "soundCues": [
+      "digital click on section number",
+      "low impact on CTA"
+    ]
+  },
+  "validation": {
+    "required": [
+      "plan-validator",
+      "typecheck",
+      "composition-list",
+      "opening-still",
+      "body-still",
+      "cta-still",
+      "full-render"
+    ],
+    "risks": [
+      "Sound cues remain direction only until licensed audio is supplied."
+    ]
+  }
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Remotion Editing Styles"
+  short_description: "Plan and build style-directed Remotion video edits"
+  default_prompt: "Use $remotion-editing-styles to turn my footage or script into a style-directed Remotion edit."
