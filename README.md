@@ -30,6 +30,25 @@ transitions, overlays, recurring motifs, and sound direction.
 Use one dominant preset for a normal final edit. A second preset may contribute
 up to two clearly named traits.
 
+## Real footage comparison
+
+The following images were rendered from the same frame of one supplied
+talking-head product video. Keeping the source frame constant makes the
+differences in layout, typography, motifs, and editorial emphasis easier to
+compare.
+
+| Natural retro geometric | Xiaohongshu illustrated poster |
+|---|---|
+| ![Natural retro geometric edit](assets/readme/style-natural.jpg) | ![Xiaohongshu illustrated poster edit](assets/readme/style-xiaohongshu.jpg) |
+
+| Relaxed handwritten poster | American vintage color-block |
+|---|---|
+| ![Relaxed handwritten poster edit](assets/readme/style-handwritten.jpg) | ![American vintage color-block edit](assets/readme/style-american.jpg) |
+
+| Cyber brutalism |
+|---|
+| ![Cyber brutalism edit](assets/readme/style-cyber.jpg) |
+
 ## Workflow
 
 ```text
